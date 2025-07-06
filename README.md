@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rgowni1
-- 👀 I’m interested in machine learning, 
-- 🌱 I’m currently learning about quantitative finance, AI, entrepreneurship & innovation at the Wharton school. 
+- 👀 I’m interested in machine learning, quantitative finance, AI
 - 💞️ I’m looking to collaborate on anything in data science, FinTech, VC
 - 📫 How to reach me - rgowni18@gmail.com
 
